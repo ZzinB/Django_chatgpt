@@ -27,3 +27,6 @@ VScode, Django, Bootstrap, MLFLow
 <img width="720" alt="Untitled" src="https://github.com/ZzinB/MyProject/assets/54674562/a6d1c72d-8049-4101-973b-10feb123b5c9">
 <img width="720" alt="Untitled (1)" src="https://github.com/ZzinB/MyProject/assets/54674562/1b2fced0-8e15-4df6-a058-d27adab838d9">
 <img width="720" alt="Untitled (2)" src="https://github.com/ZzinB/MyProject/assets/54674562/300427bf-e667-46d4-8f05-ad9f6c7db8b7">
+
+* https://github.com/ZzinB/Sin-Bi-Dae-Jang.git
+* 현재 MLFlow 중단
